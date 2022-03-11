@@ -64,7 +64,7 @@ h1, h2 {
   padding: 6px;
 }
 
-a:hover {
+.button:hover {
   background-color:rgb(131, 160, 129);
 }
 
